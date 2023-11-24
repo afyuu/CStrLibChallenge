@@ -1,2 +1,2 @@
 # coded this on windows lmao
-check the .c file for documentation
+check the .h file for documentation
